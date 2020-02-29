@@ -28,9 +28,12 @@ Providing multi-classification of 8 classes models of patient conditions using L
 
 - 5-Cross validation was used.
 - The whole data was split into 5-validation sets(train/test) in which the number of each class were considered. 
+- Each validation sets ware saved as .csv format.
 
 
 ## Some issues dealt with
+
+- Difference performance in OS (Win10 vs. Ubuntu 18.04)
 
 - Drawing out visualization for results of each algorithms.
   - Graphviz for DecisionTree
