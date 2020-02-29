@@ -12,6 +12,18 @@ Providing multi-classification of 8 classes models of patient conditions using L
 - A number of classes are imbalanced.
 
 
+## Models
+
+- Tree-based algorithms
+  - LightGBM
+  - DecisionTree
+  - RandomForest
+  
+- The others
+  - KNN
+  - DQN for imbalanced classification( )
+
+
 ## Validation method
 
 - 5-Cross validation was used.
