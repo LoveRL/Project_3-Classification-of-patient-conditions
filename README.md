@@ -10,7 +10,7 @@ Providing multi-classification of 8 classes models of patient conditions using L
 - A format is '.csv'.
 
 
-## Some issues dealt with.
+## Some issues dealt with
 
 - Drawing out visualization for results of each algorithms.
   - Graphviz for DecisionTree
