@@ -33,10 +33,11 @@ Providing multi-classification of 8 classes models of patient conditions using L
 
 ## Some issues dealt with
 
-- Difference performance in OS (Win10 vs. Ubuntu 18.04)
+- A big different performance in OS (Win10 vs. Ubuntu 18.04)
+  - About 20%p accuracy difference.
 
 - Drawing out visualization for results of each algorithms.
   - Graphviz for DecisionTree
-  - plot for LightGBM(https://github.com/microsoft/LightGBM/tree/master/examples/python-guide)
-  - plot for KNN
+  - plot for LightGBM(https://github.com/microsoft/LightGBM/tree/master/examples/python-guide).
+  - plot for KNN.
     
