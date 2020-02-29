@@ -21,7 +21,7 @@ Providing multi-classification of 8 classes models of patient conditions using L
   
 - The others
   - KNN
-  - DQN for imbalanced classification(Lin, Enlu, Qiong Chen, and Xiaoming Qi. "Deep reinforcement learning for imbalanced classification." arXiv preprint arXiv:1901.01379 (2019).)
+  - DQN for imbalanced classification (Lin, Enlu, Qiong Chen, and Xiaoming Qi. "Deep reinforcement learning for imbalanced classification." arXiv preprint arXiv:1901.01379 (2019).)
 
 
 ## Validation method
