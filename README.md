@@ -1,6 +1,6 @@
 # Project_3-Classification-of-patient-conditions
 
-Providing multi-classification of 8 classes models of patient conditions using LightGBM, KNN, DecisionTree, and DQN for imbalanced classification.
+  Providing multi-classification of 8 classes models of patient conditions using LightGBM, KNN, DecisionTree, and DQN for imbalanced classification.
 
 
 ## Data
