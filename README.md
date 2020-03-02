@@ -39,6 +39,6 @@ Providing multi-classification of 8 classes models of patient conditions using L
 
 - Drawing out visualization for results of each algorithms.
   - Graphviz for DecisionTree
-  - plot for LightGBM(https://github.com/microsoft/LightGBM/tree/master/examples/python-guide).
-  - plot for KNN.
+  - Plotting for LightGBM(https://github.com/microsoft/LightGBM/tree/master/examples/python-guide).
+  - Plotting for KNN.
    
