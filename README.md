@@ -40,6 +40,6 @@ Providing multi-classification of 8 classes models of patient conditions using L
 - Drawing out visualization for results of each algorithms.
   - Graphviz for DecisionTree
   - Graphviz ans plotting for LightGBM(https://github.com/microsoft/LightGBM/tree/master/examples/python-guide).
-  - Plotting for KNN.
+  - t-SNE for KNN (t-SNE is visualization mothed for high dimension data in which features of data are reduced to lower dimension).
   
 - Plotting learning curves of each algorithms.
