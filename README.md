@@ -17,7 +17,6 @@ Providing multi-classification of 8 classes models of patient conditions using L
 - Tree-based algorithms
   - LightGBM
   - DecisionTree
-  - RandomForest
   
 - The others
   - KNN
