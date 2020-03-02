@@ -36,7 +36,7 @@ Providing multi-classification of 8 classes models of patient conditions using L
 - A big different performance in OS (Win10 vs. Ubuntu 18.04)
   - About 20%p accuracy difference.
 
-- As too many number of features(68) in the data, it is important to select the most effective set of features(roughly brute force). 
+- As too many number of features(68) in the data, it is important to select the most effective set of features (roughly brute force). 
 
 - Drawing out visualization for results of each algorithms.
   - Graphviz for DecisionTree
