@@ -25,7 +25,7 @@ Providing multi-classification of 8 classes models of patient conditions using L
 
 ## Validation method
 
-- 5-Cross validation was used.
+- 5-fold cross validation was used.
 - The whole data was split into 5-validation sets(train/test) in which the number of each class were considered. 
 - Each validation sets ware saved as .csv format.
 
