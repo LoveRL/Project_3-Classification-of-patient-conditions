@@ -1,7 +1,6 @@
 # Project_3-Multi-classification-of-patient-conditions
 
-Providing multi-classification of 8 classes models of patient conditions using LightGBM, KNN, DecisionTree, and DQN for imbalanced classification.
-
+Providing multi-classification of 8 classes models of patient conditions using LightGBM.
 
 ## Data
 
@@ -14,20 +13,13 @@ Providing multi-classification of 8 classes models of patient conditions using L
 
 ## Models
 
-- Tree-based algorithms
-  - LightGBM
-  - DecisionTree
-  
-- The others
-  - KNN
-  - DQN for imbalanced classification (Lin, Enlu, Qiong Chen, and Xiaoming Qi. "Deep reinforcement learning for imbalanced classification." arXiv preprint arXiv:1901.01379 (2019).)
+-LightGBM
 
 
 ## Validation method
 
-- 5-fold cross validation was used.
-- The whole data was split into 5-validation sets(train/test) in which the number of each class were considered. 
-- Each validation sets were saved as '.csv' format.
+- Leave One Out cross validation which is for small data-set.
+- 5-fold cross validation.
 
 
 ## Some issues dealt with
