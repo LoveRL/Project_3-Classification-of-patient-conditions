@@ -13,7 +13,7 @@ Providing multi-classification of 8 classes models of patient conditions using L
 
 ## Models
 
--LightGBM
+- LightGBM
 
 
 ## Validation method
