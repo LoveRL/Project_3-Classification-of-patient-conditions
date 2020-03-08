@@ -5,10 +5,11 @@ Providing multi-classification of 8 classes models of patient conditions using L
 ## Data
 
 - The data consist of 68-features and 8-classes.
-- A number of data points are 622.
+- A number of data points are 622(small data-set).
 - A format is '.csv'.
-- So many missing values that '.fillna(0)' used for imputation.
+- So many missing values that '.fillna(2)' used for imputation.
 - A number of classes are imbalanced.
+- Instruction for each feature is in 
 
 
 ## Models
